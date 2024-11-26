@@ -63,6 +63,7 @@ def crawl(url: str | None = None,
     
     # Get page info
     headings, paragraph_texts, links = scrape(url)
+
     if len(headings) == 0 or len(paragraph_texts)== 0:
         print(f"WARNING: {url} has {len(headings)} and {len(paragraph_texts)} parapgraphs.")
 
@@ -116,7 +117,7 @@ def post_processing(visited_urls, total_headings, total_paragraphs):
 def main():
     URL = "https://www.surrey.ac.uk/open-days"
     MAX_DEPTH = 2
-    MAX_LINKS_PER_PAGE=20 # None or int
+    MAX_LINKS_PER_PAGE=None # None or int
 
     # scrape(URL) # For single page scrapring
 
@@ -137,4 +138,9 @@ def main():
     print("working websites", len(set(filtered_urls)))
 
 if __name__ == "__main__":
+    # hs, ps, ls = scrape("https://www.surrey.ac.uk/undergraduate/computer-science")
+    # print("ls:\n", ls)
+    # print("ps:\n", ps)
+    # print("hs:\n", hs)
+    
     main()
