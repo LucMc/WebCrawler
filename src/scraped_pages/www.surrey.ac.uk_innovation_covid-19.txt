@@ -1,0 +1,84 @@
+URL: https://www.surrey.ac.uk/innovation/covid-19
+==================================================
+
+HEADINGS:
+--------------------
+• Covid-19 innovation
+• This website uses cookies
+• Secondary navigation
+• Global main menu
+• Radical Fibres: making safer personal protective equipment
+• VH-6 Portable Covid-19 testkit
+• Sammi-Select Ltd: sophisticated candidate interview software
+• Contact us
+• Footer menu
+• Necessary
+• Analytics
+• Marketing
+• Study
+• About
+• Information for
+• Contact us
+• Explore more
+• More about Radical Fibres Ltd
+• Expand to learn more about Vidiia Ltd
+• Expand to learn more about Sammi-Select Ltd
+
+PARAGRAPHS:
+--------------------
+Some of these cookies are necessary and are used to help make our site work. With your consent, we will also use cookies to improve your experience, analyse site usage and assist in our marketing efforts. By clicking 'Accept all', you consent to our use of cookies.
+
+You can learn more about these cookies and manage your preferences at any time on ourcookies page.
+
+These cookies enable essential website functions and ensure the site operates properly. They do not store personally identifiable information. While you can disable them in your browser settings, some features may not function correctly.
+
+These cookies help us understand how visitors interact with our website by collecting anonymous usage data. We use this information to improve website performance and enhance your experience.
+
+These cookies deliver personalised ads based on your browsing activity and help us measure the effectiveness of our advertising campaigns.
+
+Members of our innovation ecosystem have been working hard in the fight against Covid-19 to create new products and services based on our research. Here we highlight their work and to say a public "thank you".
+
+Radical Fibres Ltdis fresh spin-out company from the University of Surrey which started trading in April 2020. They are an advanced textile company, specialising in customising and manufacturing nanofibre solutions for a wide range of applications.
+
+Being an airborne virus, Covid-19 presented a huge worldwide challenge in a very short space to time; the need for fast and effective face mask filter materials. The virus itself is only about 40nm in size, which is a major problem given that most face masks are only certified to filter particles as small as 2000nm.
+
+Radical Fibres have risen to this challenge and in less than six months successfully developed nanofibre filter material which meets the requirements head-on. Their patented technology has demonstrated how nanofibre filter materials have the best nanoparticle filtration efficiency, whilst improving breathability, heat dissipation and reducing the CO2 re-breathing, all current issues with modern alternatives.
+
+Nanofibres are a rapidly rising extraordinary material that is taking a wide range of industries by storm; revolutionising everything from aerospace to pharmaceuticals. Their intrinsic nano-sized diameters result in extremely high surface areas and porosities, creating new innovative non-woven polymer textiles, resulting in new material functionalities, outstanding performances and solutions to modern challenges.
+
+While nanofibres have a limitless potential to revolutionise a broad range of industries one of their most obvious applications is in superior filtration. For example, nanofibre can outperform conventional microfibres at fine particle filtration requiring just 4% of the raw material costs, slashing plastic use.
+
+Tested by an independent certified laboratory, their filters have been proven to offer 95% particle filtration efficiencies down to particles as small as 10nm, as well as bacterial and viral filtration efficiencies of 99.8%; a true solution to stopping airborne transmission of Covid-19.
+
+Entering the final stages of development, they are now commercially scaling up the technology to produce this material to the volumes required, which initially customers already having received their first orders.
+
+Taking note of the devastating effects that plastic PPE waste is having on the environment, Radical Fibres are now working on taking this technology further in currently developing a fully compostable alternative, still meeting all outstanding filtration performances as before, saving both lives and the environment.
+
+Vidiia Ltdis a spin-out medical technology company, formed in June 2020 to lead and drive the commercial success of the innovative Virus Hunter 6 (VH6). The VH6is a rapid diagnostic LAMP testing platform targeting SARS-CoV-2, created successfully in collaboration with our consortium including Surrey University, Brunel University London and Lancaster.
+
+The consortium has worked with Vidiia to deliver a market leading product, critical in offering fast and accurate point of care necessary against the fight against COVID-19. The new and innovative SARS-CoV-2 rapid point of care diagnostics platform relies on a reverse-transcription loop-mediated isothermal amplification (RT-LAMP) and a hand-held smart diagnostic device to provide highly specific 96.8% and highly sensitive 98.6% results for up to six patients simultaneously in 20 minutes.
+
+The origins of the Vidiia Covid-19 test started two years ago using the skills of virologists, veterinarians, and engineers from Brunel University, Lancaster University and the University of Surrey to identify viral and bacterial pathogens in chickens and previously used in The Philippines following the spread of avian flu amongst the poultry industry there. In March 2020 following the arrival of a global Coronavirus pandemic, professors and researchers across the university consortium, responsible for the original design of the avian infectious disease diagnostic test, successfully adapted their solution to test humans and hunt signs of Covid-19 virus RNA to detect Covid-19 (SARS-CoV-2-RNA) in a controlled, fast and accurate way.
+
+The university consortium has designed an effective LAMP assay that targets a highly conserved region of the SARS-CoV-2 gene, identified by screening over 3000 genomes worldwide. Repeated experiments conducted on synthetic RNA and RNA extracted from clinical samples indicate a lower limit of detection of 10 copies of RNA sample. This demonstrates high sensitivity, which means earlier detection of the virus. Furthermore, additional sensitivity tests conducted for other viruses show a high specificity for SAR-CoV-2.
+
+MHRA approved and CE-IVD registered, the VH6device and testing kit is small, portable and can be operated on location, without the need for samples to be sent away to a laboratory.  A significant contributing factor is the inactivating buffer developed by the team. Crucially it can test up to 6 patients simultaneously using nasopharyngeal swab samples to further boost its mass-testing credentials.  British production of the small portable device is being led by GBE who are manufacturing in West Sussex.
+
+Together we have achieved a world-class testing platform by aligning expertise in virology, cutting-edge technology and innovative product design to challenge the status quo.
+
+Customers already using the Virus Hunter 6 in the field are testing in the sports, film production and offshore sectors. The product is also being peer-to-peer performance evaluated by overseas laboratories in India and Sri Lanka and at the internationally renowned scientific laboratories ‘Eurofins’ in Spain.
+
+In principle, Virus Hunter 6 can be used to test for any virus in human or animal health, thus laying the long-term foundations between Vidiia and our university consortium for further innovation and product development in the future.
+
+Sammi-Select Ltdis a spin-out company from the University of Surrey set up in January 2020. Formed by a diverse team of experts who uniquely bring fresh scientific innovation and a vision for equality, diversity, inclusion and objectivity to the candidate selection space.
+
+Sammi-Select’s scientifically developed system replaces unproven approaches adopted to cope with pandemic-driven challenges. Suitable for any organisation handling large volumes of applicants, it can support scheduling, capture and analysis of responses, and automates provision of feedback to candidates. Positive impacts accrue ethically and financially for organisations including users of public health services like the NHS and those supporting its’ continuity needs. A potential net environmental benefit is clear with reduced necessity to travel and costs of traditional selection processes.
+
+The societal impact caused by Covid-19 on the disruption in continuity and quality of recruitment, especially to public sector services like healthcare, is potentially catastrophic both to service provision and the economy. In the NHS alone, this affects 1.2million employees, with over 30% now threatening to quit due to the recent crisis. Sustaining ongoing provision though the 100,000 healthcare professional students interviewed annually in the UK to undertake training is also essential. In other sectors predictions of unemployment mean that there are likely to be large numbers of applicants for posts leading to challenges of ensuring fair yet suitable selection.
+
+Already described as ‘agame-changer’by UK Medical School Admissions Deans, it is Sammi-Select's application of rigorous research that makes the difference and defines an innovative and fundamental improvement on current state-of-the-art. They have teamed up with an international aerospace giant as co-design partner and are already working with UK and US universities and medical schools for further product development and validation.
+
+Accessibility|Data protection|Cookies|Disclaimer|Freedom of information|Modern Slavery Statement (PDF)
+
+© University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom. +44 (0)1483 300800
+

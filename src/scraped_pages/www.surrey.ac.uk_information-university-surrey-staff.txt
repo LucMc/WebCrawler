@@ -1,0 +1,83 @@
+URL: https://www.surrey.ac.uk/information-university-surrey-staff
+==================================================
+
+HEADINGS:
+--------------------
+• Information for University of Surrey staff
+• This website uses cookies
+• Secondary navigation
+• Global main menu
+• Common questions answered on SurreyNet
+• Remote access
+• Preparing to work off-campus
+• Footer menu
+• Necessary
+• Analytics
+• Marketing
+• IT
+• HR
+• Online services
+• Library
+• Research & Innovation
+• Parking
+• Guidance information
+• External marketing website
+• Advertising for staff
+• Advertising for students
+• Design and photos
+• Videos and social media
+• Staff and students
+• Study
+• About
+• Information for
+• Contact us
+• Services that require just the internet
+• Services that just need the internet
+• How to use Microsoft Teams
+• Services that require GlobalProtect VPN and how to connect to it
+• Services that require GlobalProtect
+• Setting up GlobalProtect
+• Virtual desktop
+
+PARAGRAPHS:
+--------------------
+Some of these cookies are necessary and are used to help make our site work. With your consent, we will also use cookies to improve your experience, analyse site usage and assist in our marketing efforts. By clicking 'Accept all', you consent to our use of cookies.
+
+You can learn more about these cookies and manage your preferences at any time on ourcookies page.
+
+These cookies enable essential website functions and ensure the site operates properly. They do not store personally identifiable information. While you can disable them in your browser settings, some features may not function correctly.
+
+These cookies help us understand how visitors interact with our website by collecting anonymous usage data. We use this information to improve website performance and enhance your experience.
+
+These cookies deliver personalised ads based on your browsing activity and help us measure the effectiveness of our advertising campaigns.
+
+Links with apadlockrequire staff to login, with some sites also requiring you to be logged into GlobalProtect.
+
+A range of options are available for off-site access to university facilities and information.
+
+This method is suitable for the majority of staff at the University and is ideal if you do not need continuous access to corporate applications.
+
+If you are not yet using Microsoft Teams please use the following links to get started:
+
+There are some university services that will require more than just an internet connection for you to access them.
+
+Note- the Global Protect service is limited to being available in the UK plus some additional countries for time-limited periods depending on requirement. This is for enhanced protection of our services. If you are abroad then we recommend using the Virtual Desktop service.
+
+We need to ensure that you have Microsoft Multi-Factor Authentication (MFA) set up (this is different to the Google Authenticator). To do this:
+
+If you are academic staff you will also need to ensure that your devices are setup for remote teaching – information can be found onSurreyLearn.
+
+The University’sVirtual Desktopservice is available globally and gives access to a university desktop, its software and files all from your device whether on or off campus.
+
+It’s also a great option for those wishing to use their own devices and presents many of the same features you’d expect when using a university device. Some functions may not be available, so you should make sure that this works for how you would normally work before deciding to rely on it.
+
+A sample list of services accessible using the Virtual Desktop:
+
+To get set up, please follow theinstructions (PDF).
+
+If you need to work off campus it is a good idea to:
+
+Accessibility|Data protection|Cookies|Disclaimer|Freedom of information|Modern Slavery Statement (PDF)
+
+© University of Surrey, Guildford, Surrey GU2 7XH, United Kingdom. +44 (0)1483 300800
+

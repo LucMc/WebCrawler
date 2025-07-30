@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
+import os
+import re
 
 def scrape(url):
     page = requests.get(url)
@@ -51,18 +53,52 @@ def filter_link(base_url, link):
         print("UNKNOWN TYPE", link_url)
         breakpoint()
 
+def save_page_content(url, headings, paragraphs, output_dir="scraped_pages"):
+    os.makedirs(output_dir, exist_ok=True)
+    
+    filename = re.sub(r'[^\w\-_.]', '_', url.replace('https://', '').replace('http://', ''))
+    filename = filename[:100] + '.txt'
+    filepath = os.path.join(output_dir, filename)
+    
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(f"URL: {url}\n")
+        f.write("=" * 50 + "\n\n")
+        
+        if headings:
+            f.write("HEADINGS:\n")
+            f.write("-" * 20 + "\n")
+            for heading in headings:
+                f.write(f"• {heading}\n")
+            f.write("\n")
+        
+        if paragraphs:
+            f.write("PARAGRAPHS:\n")
+            f.write("-" * 20 + "\n")
+            for para in paragraphs:
+                if para.strip():
+                    f.write(f"{para}\n\n")
+
 def crawl(url: str | None = None,
-          visited_urls: list = [],
-          total_headings: list = [],
-          total_paragraphs: list = [],
+          visited_urls: list = None,
+          total_headings: list = None,
+          total_paragraphs: list = None,
           depth: int = 0,
           max_depth: int = 2,
           max_links_per_page: int = 15
           ):
 
+    if visited_urls is None:
+        visited_urls = []
+    if total_headings is None:
+        total_headings = []
+    if total_paragraphs is None:
+        total_paragraphs = []
     
     # Get page info
     headings, paragraph_texts, links = scrape(url)
+    
+    # Save page content to file
+    save_page_content(url, headings, paragraph_texts)
 
     if len(headings) == 0 or len(paragraph_texts)== 0:
         print(f"WARNING: {url} has {len(headings)} and {len(paragraph_texts)} parapgraphs.")
@@ -125,11 +161,12 @@ def main():
     print("visited_urls:\n", visited_urls)
 
     import random
-    idx = random.randint(0,len(visited_urls))
-    print("\n\nRandom idx:\n", idx)
-    print("Random visited URL:\n", visited_urls[idx])
-    print("headings:\n", total_headings[idx])
-    print("paragraphs:\n", total_paragraphs[idx])
+    if visited_urls:
+        idx = random.randint(0, len(visited_urls) - 1)
+        print("\n\nRandom idx:\n", idx)
+        print("Random visited URL:\n", visited_urls[idx])
+        print("headings:\n", total_headings[idx])
+        print("paragraphs:\n", total_paragraphs[idx])
     
     print("Total websites", len(visited_urls))
     print("Unique websites", len(set(visited_urls)))

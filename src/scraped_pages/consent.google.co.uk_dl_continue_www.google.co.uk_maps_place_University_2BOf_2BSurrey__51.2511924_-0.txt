@@ -1,0 +1,31 @@
+URL: https://consent.google.co.uk/dl?continue=https://www.google.co.uk/maps/place/University%2BOf%2BSurrey/@51.2511924,-0.5963163,14z/data%3D!4m8!1m2!2m1!1suniversity%2Bof%2Bsurrey!3m4!1s0x4875d0c24843083b:0x299de52aed4213a1!8m2!3d51.2421839!4d-0.5905421&gl=GB&hl=en&cm=2&pc=m&uxe=eomtm&src=1
+==================================================
+
+HEADINGS:
+--------------------
+• Personalization settings & cookies
+• Search customization
+• Ad personalization on Search
+• Managing cookies in your browser
+• Managing data Google Analytics collects on sites you visit
+
+PARAGRAPHS:
+--------------------
+We usecookiesto deliver and maintain Google services, track outages and protect against spam, fraud, and abuse, measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services. We also use cookies to support personalization settings that let you choose how to use Google, even when you’re signed out.
+
+Get more relevant results and recommendations by using past Google activity from this browser.
+
+Have Google show tailored ads in Search that are based on past activity, like the things you search for on Google.
+
+Cookies allow websites to make your Internet experience better. For example, when you set a default language on a website, cookies help the site remember your choice.
+
+You can block some or all cookies, but this can cause certain features across the web to stop working. For example, many websites require cookies to be turned on when you want to sign in. To manage cookies in Chrome:
+
+For other browsers, see your help center.
+
+Website owners use data collected by Google Analytics to make their sites work better. You can opt out of this data collection bydownloading and installing a browser add-on.
+
+If you turn your personalization settings on, Google will use cookies to show you personalized content and personalized ads, depending on your choices. Unless you “Reject all,” Google will also use cookies to deliver and measure the effectiveness of ads, and develop and improve new services.
+
+You can change your settings anytime by visiting g.co/privacytools/co_uk. You can also review ourPrivacy Policyto learn how Google uses information generated as you use Google services. Learn more about yourchoices for cookies and data.
+

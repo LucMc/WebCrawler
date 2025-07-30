@@ -1,0 +1,15 @@
+URL: https://accounts.google.com/ServiceLogin?hl=en&cd=GB&continue=https://www.google.co.uk/maps/place/University%2BOf%2BSurrey/@51.2511924,-0.5963163,14z/data%3D!4m8!1m2!2m1!1suniversity%2Bof%2Bsurrey!3m4!1s0x4875d0c24843083b:0x299de52aed4213a1!8m2!3d51.2421839!4d-0.5905421&gae=cb-eomtm
+==================================================
+
+HEADINGS:
+--------------------
+• Sign in
+
+PARAGRAPHS:
+--------------------
+Use your Google Account
+
+Forgot email?
+
+Not your computer? Use a private browsing window to sign in.Learn more about using Guest mode
+
